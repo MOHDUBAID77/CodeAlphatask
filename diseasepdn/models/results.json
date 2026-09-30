@@ -1,0 +1,30 @@
+[
+  {
+    "model": "Logistic Regression",
+    "accuracy": 0.7833333333333333,
+    "precision_weighted": 0.7861952861952861,
+    "recall_weighted": 0.7833333333333333,
+    "f1_weighted": 0.7827903091060985
+  },
+  {
+    "model": "SVM",
+    "accuracy": 0.7666666666666667,
+    "precision_weighted": 0.7678571428571428,
+    "recall_weighted": 0.7666666666666667,
+    "f1_weighted": 0.7664071190211346
+  },
+  {
+    "model": "Random Forest",
+    "accuracy": 0.7666666666666667,
+    "precision_weighted": 0.7678571428571428,
+    "recall_weighted": 0.7666666666666667,
+    "f1_weighted": 0.7664071190211346
+  },
+  {
+    "model": "XGBoost",
+    "accuracy": 0.7833333333333333,
+    "precision_weighted": 0.7861952861952861,
+    "recall_weighted": 0.7833333333333333,
+    "f1_weighted": 0.7827903091060985
+  }
+]

@@ -1,0 +1,4 @@
+Put a CSV dataset in this folder.
+For the included demo, use data/sample_medical_data.csv.
+For a real dataset, update config.py with its path and target column.
+Do not upload real patient-identifying information.

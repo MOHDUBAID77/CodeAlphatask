@@ -1,0 +1,5 @@
+To run immediately with the included demo data, set in config.py:
+
+DATA_PATH = "data/sample_medical_data.csv"
+TARGET_COLUMN = "target"
+DROP_COLUMNS = []

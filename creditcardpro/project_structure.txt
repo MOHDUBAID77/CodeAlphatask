@@ -1,0 +1,16 @@
+Credit_Scoring_ML_Project/
+│
+├── README.md
+├── requirements.txt
+├── generate_dataset.py
+├── train_model.py
+├── app.py
+├── credit_data.csv          (created by generate_dataset.py)
+│
+├── models/
+│   └── credit_scoring_model.pkl   (created after training)
+│
+└── outputs/
+    ├── model_comparison.csv       (created after training)
+    ├── roc_curves.png              (created after training)
+    └── *_confusion_matrix.png      (created after training)
